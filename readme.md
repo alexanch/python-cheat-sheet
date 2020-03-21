@@ -7,13 +7,13 @@
 * Numbers and Strings operations
 * Lists, Dictionaries, Sets, and Tuples operations 
 * Input/ Output
-* Functions, 
+* Functions
 * Lambda 
-* Object-Oriented Programming (Classes, inheritance, polimorphysm) 
+* Object-Oriented Programming (Classes, inheritance, polymorphism) 
 * Python generators, iterators, decorators
 * Errors and exceptions
 * Unit tests
 * RegEx
 * Creation of your own python modules
-* Additional packages (Collections: defaultdict, OrderedDict, namedtuple, datetime, timeit)
+* Collections: defaultdict, OrderedDict, namedtuple
 * python debugger
