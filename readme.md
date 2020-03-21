@@ -4,16 +4,17 @@
 
 
 ### Incudes:
-* Numbers and Strings operations
+* Numbers and Strings: Indexing and Slicing, Properties and Methods
 * Lists, Dictionaries, Sets, and Tuples operations 
 * Input/ Output
-* Functions
-* Lambda 
+* Functions, \*args and \**kwargs
+* Lambda Expressions, Map, and Filter Functions
 * Object-Oriented Programming (Classes, inheritance, polymorphism) 
-* Python generators, iterators, decorators
+* Python Generators, Iterators, Decorators
 * Errors and exceptions
-* Unit tests
+* \__name__ and "\__main__"
+* Unit tests (pylint, unittest) 
 * RegEx
 * Creation of your own python modules
-* Collections: defaultdict, OrderedDict, namedtuple
+* Collections: counter, defaultdict, OrderedDict, namedtuple
 * python debugger
