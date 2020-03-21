@@ -4,8 +4,8 @@
 
 
 #### Incudes:
-* Numbers, Strings, 
-* Lists, Dictionaries, Sets, Tuples, 
+* Numbers and Strings operations
+* Lists, Dictionaries, Sets, and Tuples operations 
 * Input/ Output
 * Functions, 
 * Lambda 
